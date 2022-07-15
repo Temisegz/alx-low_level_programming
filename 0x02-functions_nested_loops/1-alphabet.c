@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- *  * print_alphabet - check the code for Holberton School students.
- *   *
- *    * Return: Always 0.
+ * main - ckeck the code
+ *
+ * Return: Always 0.
  */
 
 void print_alphabet(void)
