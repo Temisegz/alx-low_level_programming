@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 /**
  *  * _abs - returns absolute value of an int
  *   * @n: integer from which to get an absolute value
