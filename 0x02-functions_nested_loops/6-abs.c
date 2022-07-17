@@ -5,8 +5,7 @@
  *    * Return: Void.
  *     */
 
-int _abs(int n)
-{
+int _abs(int);
 	if (n < 0)
 	{
 		return (n * -1);
