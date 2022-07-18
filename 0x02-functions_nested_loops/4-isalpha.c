@@ -6,7 +6,7 @@
  *    * @c: is c an integer argument
  *     *
  *      * Return: Always 0.
- *       */
+ */
 
 int _isalpha(int c)
 {
