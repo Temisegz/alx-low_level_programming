@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-ibs - returns absolute value of an int
- * @n: integer from which to get an absolute value
-*  * Return: Void.
+* ibs - returns absolute value of an int
+* @n: integer from which to get an absolute value
+* Return: Void.
 */
 
 int _abs(int n)
