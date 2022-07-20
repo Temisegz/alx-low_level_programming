@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdio.>
 /**
  * print_array - print n of int array
  * @a: pointer
