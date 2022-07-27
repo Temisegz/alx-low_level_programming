@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
-  create_array - create array
+ * create_array - create array
  * @size: size
  * @c: constant
  * Return: char pointer
