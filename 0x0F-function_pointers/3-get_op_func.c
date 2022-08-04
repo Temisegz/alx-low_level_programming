@@ -4,9 +4,9 @@
 #include <string.h>
 
 /**
- *  * get_op_func - get an operation
- *   * @s: operator
- *    * Return: No
+ * get_op_func - get an operation
+ * @s: operator
+ * Return: No
  */
 
 int (*get_op_func(char *s))(int, int)
